@@ -60,7 +60,62 @@ It is a set of *methodological procedures and techniques* that help identify,gat
 4. *Estimate* and minimize the *damage* to resources in a corporate setup
 5. *Set a security parameter* and formulate security norms for ensuring forensic readiness.
 
+**Types of Cyber Crimes** 
+
+Cybercrime is defined as any illegal act invloving a computer device,network, its systems or its applications.
+
+These are categorized into two types based on the line of attack
+
+| **Internal Attack**                                                      | **External Attack**                                                                                   |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Attacker is Entrusted Person from inside the organisation                | Attacker is from outside of the organisation                                                          |
+| Attacker already have authorisation to access to the network             | They are not authorised to access the n/w. They do gain unauthorised access                           |
+| Attackers could be former or employees, business partners or contractors | These attackers exploit security loopholes or use social engineering techniques to infiltrate the n/w |
+
+**Examples of Common Cyber Crimes**
+
+1. Espionage
+2. Intellectual property theft
+3. Data Manipulation 
+4. Trojan Horse Attack
+5. SQL attack
+6. Brute-force Attack
+7. Phishing/Spoofing
+8. Privilege Escalation Attacks
+9. Denial of Service Attack (DDos)
+10. Cyber Defamation 
+11. Cyber terrorism 
+12. Cyberwarfare
+
+**Impact of Cyber crimes at the Organisational level** :- 
+
+1. Loss of confidentiality,integrity and availabilty of information stored in organisational systems.
+2. Theft of sensitive data.
+3. sudden disruption of business activities
+4. Loss of customer and stakeholder trust
+5. substantial reputational damage 
+6. Huge financial losses 
+7. Penalties arising from the failure to comply with regulations 
+
+Now Jump to the 2nd Modulue flow i.e **Digital Evidence** :- 
+
+**What is Digital Evidence ?**
+
+Any information of *probative value* that is either stored or transmitted in a digital form is called as Digital Evidence.
+
+Digital evidence is *circumstantial* and *fragile* in nature, which makes it difficult for a forensic investigator to trace criminal activities.
+
+What is  *Locard's Exchange principle*?
+
+Anyone or anything,entering a crime scene takes something of the scene with them, and leaves somethings of themselves behind when they leave.
 
 
+**Types of Digital Evidence**:- 
+
+ - Volatile Data:- Data that are lost as soon as the device is powered off. eg system timeout, process to port mapping, process memory, clipboard contents, service/driver information,command history.
+
+- Non-volatile Data:- Data that are stored on secondary storage device such as hard disks,memory cards , unallocated clusters, events logs.
+
+The common enemy for both volatile and non volatile Digital evidence are :- **Time**
 
 
