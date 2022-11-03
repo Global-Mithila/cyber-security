@@ -133,6 +133,67 @@ Digital Evidence may assist the forensic investigator in the prosecution or defe
 - Abuse of Systems 
 - Email communication between suspects/conspirators.
 
+**Source of Potential Evidence**
+- user-Created Files 
+ * Address books
+ * Database files
+ * Media(Images,graphics,audio,video etc) files
+ * Documents (text,spreadsheets) files
+ * Internet bookmarks, favourites etc.
+
+**User-Protected Files** 
+
+* Compressed files
+* Misnamed files
+* Encrypted files
+* Password-protected files
+* Hidden files
+* steganography
+
+**Computer-Created Files**
+* Backup Files
+* Log Files
+* Configuration Files
+* Printer Spool files
+* Cookies
+* Swap Files
+* System Files
+* History Files
+* Temporary Files
+
+**Devices**
+* Hard Drive 
+* Thumb Drive 
+* Memory Card 
+* Smart Card
+* Dongle
+* Biometric Scanner 
+* Answering Machine 
+* Digital camera
+* RAM and Volatile storage
+* Handheld Devices
+* LAN
+* Router,Modem,Hubs,Switches
+* Network cables and Connectors
+* Server
+* Printer
+* IOT and wearables 
+
+We have seen a lot more examples of Evidence, now Question is how to consider something as a evidence? 
+
+**Rules of Evidence**
+
+Must have 5 basic rules that make it admissible in a court of law
+
+1. Understandable : Evidence must be clear and understandable to the judges
+2. Admissible : Evidence must be related to the fact being proved
+3. Authentic : Evidence must be real and appropriately related to the incident
+4. Reliable : There must be no doubt the authenticity or veracity of the evidence
+5. complete: The evidence must prove the attacker's actions or his/her innocence
+
+
+
+
 
 
 
