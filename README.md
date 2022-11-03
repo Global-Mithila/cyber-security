@@ -191,6 +191,35 @@ Must have 5 basic rules that make it admissible in a court of law
 4. Reliable : There must be no doubt the authenticity or veracity of the evidence
 5. complete: The evidence must prove the attacker's actions or his/her innocence
 
+**Forensic Readiness Planning** 
+
+Forensic readiness planning refers to a set of processes to be followed to achieve and maitain forensics readiness.
+
+1. Identify the potential evidence required for an incident
+2. Determine the **source of evidence**
+3. Define a **policy to handle and store** the acquired evidence in a secure manner
+4. Identify if the incident  requires **full or formal investigation**
+5. Create a **process** for documenting the procedure
+6. Establish a **legal advisory board** to guide the investigation process
+7. keep an **Incident response Team** ready to review the incident and preserve the evidence.
+
+**Need for a forensic Investigator**
+
+- Cybercrime Investigation
+- Sound Evidence Handling
+- Incident Handling and Response 
+
+**Roles and Responsibilities of a Forensics Investigator**
+- Determines the extent of any damage done during the crime
+- Recovers data of investigative value from computing devices involved in crimes 
+- Create an image of the original evidence withour tampering with it to maintain its integrity.
+- Guide the officials carrying out the investigation 
+- Analyses the evidence data found
+- Prepares the analysis report
+- Update the orginazation about various attack methods and data recovery attack methods and data recovery techniques and maintains a record of them 
+- Addresses the issue in a court of law and attempts to win the case by testifying in court.
+-
+
 
 
 
