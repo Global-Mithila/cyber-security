@@ -118,4 +118,21 @@ Anyone or anything,entering a crime scene takes something of the scene with them
 
 The common enemy for both volatile and non volatile Digital evidence are :- **Time**
 
+**Role of Digital Evidence** 
+
+Digital Evidence may assist the forensic investigator in the prosecution or defense of a suspect
+
+- Identity theft
+- Malicious attacks on the computer systems themselves
+- Information leakage
+- Unauthorised transmission of information
+- Theft of commercial secrets
+- Use/abuse of the Internet 
+- Production of false documents and accounts 
+- Unauthorised encryption/password protection of documents
+- Abuse of Systems 
+- Email communication between suspects/conspirators.
+
+
+
 
