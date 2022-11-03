@@ -52,3 +52,15 @@ It is a set of *methodological procedures and techniques* that help identify,gat
 3. To efficiently *track down perpetrators* from different parts of the world.
 4. To protect the *organisation's financial resources* and valuable time.
 
+**When we do use computer Forensics?**
+
+1. *prepare for Incidents* by securing and strengthening the defence mechanism as well as closing the loopholes in security.
+2. *Identify the actions* needed for incident response
+3. Act against copyright & intellectual property theft misuse.
+4. *Estimate* and minimize the *damage* to resources in a corporate setup
+5. *Set a security parameter* and formulate security norms for ensuring forensic readiness.
+
+
+
+
+
